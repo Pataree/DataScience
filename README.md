@@ -28,19 +28,24 @@ So how should I benchmark each stock against?
 
 First approach
 
-I with be getting the %return from each shares vesus the semi conductor ETF.
-At the end, I can tell which shares I should be purchased
+After collecting data from APIs, I store the data into the Amazon Web Service (AWS) Database RDS
+
+Each time, I need data, I will query the database instead of getting it from APIs again.
+
+I then use the semi conductor ETF as benmark, by getting the % return from each shares vesus ETF.
+
+At the end, I can tell which shares I should be purchased to reduce the risk but still getting decent return.
 
 However it does not answer me if I want to know how much each shares are going to be worth, let's say in a year time.
 
 
 Second approach
 
-I rewrote the whole set, and now getting live data streamed directly from the APIs for financial data
+I rewrote the code, and now getting live data streamed directly from the APIs for financial data.
 
-I think re-wrote a class so it can be re-useable and re-called mulitple times
+I re-wrote code into a class so it can be re-useable and re-called mulitple times
 
-I will not used ETFs as benchmark but will considered it as another stock instead
+I will not used ETFs as benchmark but considered semi conductor ETFs to be just like any another stock instead
 
 I use the Yahoo Finance - 1 yr target est as my benchmark
 
