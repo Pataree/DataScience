@@ -53,6 +53,7 @@ And now you can you Demo by change the stock name and the start dates/end dates
 
 
 Summary
+
 Getting data from APIs, from quandl, yahoo, alpha vantage, and twitter are all different.  I had find web scrapping
 
 NLP was fun but I did not manage to integrated it into my project and how it would impact share price due to insufficent data
