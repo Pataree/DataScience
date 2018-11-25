@@ -44,7 +44,8 @@ I will not used ETFs as benchmark but will considered it as another stock instea
 
 I use the Yahoo Finance - 1 yr target est as my benchmark
 
-To my surprised, the shares I would love to invest in is still ETTs but not a semi conductor ETFs
+To my surprised, the shares I would love to invest in is still ETTs but not a semi conductor ETFs.
+This is due to facts that now I can just pluck in any shares price (stock ticker) in to see the forecasts data.
 
 PS>> I love the idea of ETFs having many different stocks inside, so it would lower my risks as well as having diversify porfolios
 
